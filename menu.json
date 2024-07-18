@@ -117,7 +117,7 @@
     ],
     "es": [
       {
-        "category": "APERITIVOS",
+        "category": "SNACK",
         "items": [
           {
             "name": "EDAMAME",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "category": "ENSALADAS",
+        "category": "SALADS",
         "items": [
           {
             "name": "ENSALADA DE MAÍZ ASIÁTICA",
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "category": "PAN PLANO",
+        "category": "FLATBREADS",
         "items": [
           {
             "name": "MARGARITA Y BURRATA",
