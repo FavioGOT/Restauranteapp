@@ -11,15 +11,15 @@
               {
                 "name": "SALT",
                 "allergies": ["VG", "V"],
-                "price": 45
+                "price": 45, 
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               },
               {
                 "name": "CHILI",
                 "allergies": ["VG", "V"],
                 "price": 45
               }
-            ],
-            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+            ]
           },
           {
             "name": "VIETNAMESE SPRING ROLLS",
@@ -128,15 +128,15 @@
               {
                 "name": "SAL",
                 "allergies": ["VG", "V"],
-                "price": 45
+                "price": 45,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               },
               {
                 "name": "CHILE",
                 "allergies": ["VG", "V"],
                 "price": 45
               }
-            ],
-            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+            ]
           },
           {
             "name": "ROLLITOS PRIMAVERA VIETNAMITAS",
@@ -245,15 +245,15 @@
               {
                 "name": "SALE",
                 "allergies": ["VG", "V"],
-                "price": 45
+                "price": 45,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               },
               {
                 "name": "PEPERONCINO",
                 "allergies": ["VG", "V"],
                 "price": 45
               }
-            ],
-            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+            ]
           },
           {
             "name": "INROLLI VIETNAMITI",
