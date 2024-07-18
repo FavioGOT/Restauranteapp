@@ -229,6 +229,121 @@
           }
         ]
       }
+    ],
+    "it": [
+      {
+        "category": "SNACK",
+        "items": [
+          {
+            "name": "EDAMAME",
+            "description": "",
+            "variations": [
+              {
+                "name": "SALE",
+                "allergies": ["VG", "V"],
+                "price": 45
+              },
+              {
+                "name": "PEPERONCINO",
+                "allergies": ["VG", "V"],
+                "price": 45
+              }
+            ]
+          },
+          {
+            "name": "INROLLI VIETNAMITI",
+            "description": "Peperoncino dolce",
+            "variations": [],
+            "allergies": ["VG", "V", "GF"],
+            "price": 50
+          },
+          {
+            "name": "POLLO FRITTO COREANO",
+            "description": "MOOLI SOTTACETO",
+            "variations": [],
+            "allergies": ["S"],
+            "price": 80
+          },
+          {
+            "name": "TOAST DI GAMBERI",
+            "description": "SESAMO, SUGO AL PEPPERONCINO DOLCE",
+            "variations": [],
+            "allergies": ["SH"],
+            "price": 65
+          }
+        ]
+      },
+      {
+        "category": "MAKI",
+        "items": [
+          {
+            "name": "MAKI ALL'AVOCADO",
+            "description": "CUCUMBER, AVOCADO, PERLE DI BALSAMICO, FORMAGGIO CREMOSO",
+            "variations": [],
+            "allergies": ["V", "VG", "GF"],
+            "price": 85
+          },
+          {
+            "name": "CALIFORNIA",
+            "description": "GRANCHIO RE, CUCUMBER, AVOCADO, MAIONESE",
+            "variations": [],
+            "allergies": ["SH", "GF"],
+            "price": 120
+          }
+        ]
+      },
+      {
+        "category": "SALADS",
+        "items": [
+          {
+            "name": "INSALATA DI MAIS ASIATICA",
+            "description": "FOGLIE DI MIZUNA, MAIS GRIGLIATO, CONDIMENTO AL MISO",
+            "variations": [],
+            "allergies": ["V", "N"],
+            "price": 75
+          },
+          {
+            "name": "INSALATA DI GRANCHIO RE",
+            "description": "KUMQUAT, FINOCCHIO, INDIVIA, MAIONESE DI GRANCHIO BRUNO",
+            "variations": [],
+            "allergies": ["SH"],
+            "price": 115
+          },
+          {
+            "name": "TOMATE MARINATO IN DASHI",
+            "description": "BURRATA, PESTO, BALSAMICO, PERLE",
+            "variations": [],
+            "allergies": ["GF", "VG", "D"],
+            "price": 85
+          }
+        ]
+      },
+      {
+        "category": "FLATBREADS",
+        "items": [
+          {
+            "name": "MARGHERITA E BURRATA",
+            "description": "SUGO DI POMODORO TANGY, MOZZARELLA",
+            "variations": [],
+            "allergies": ["VG", "D"],
+            "price": 90
+          },
+          {
+            "name": "PEPPERONI",
+            "description": "PEPPERONI, POMODORO TANGY, MOZZARELLA, OLIO AL PEPPERONCINO",
+            "variations": [],
+            "allergies": ["D"],
+            "price": 95
+          },
+          {
+            "name": "POLLO AL PEPPERONCINO TAILANDESE",
+            "description": "COCO TOSTATO, ARACHIDI, PAPAYA",
+            "variations": [],
+            "allergies": ["D", "N", "S", "SH"],
+            "price": 95
+          }
+        ]
+      }
     ]
   }
 }
