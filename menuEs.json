@@ -9,15 +9,16 @@
           "variations": [
             {
               "name": "SAL",
-              "allergies": ["VG - V"]
+              "allergies": ["VG - V"],
               "price": 45
             },
             {
               "name": "CHILI",
-              "allergies": ["VG - V"]
+              "allergies": ["VG - V"],
               "price": 45
             }
           ],
+          "allergies": ["VG - V"]
         },
         {
           "name": "ROLLOS PRIMAVERA VIETNAMITAS",
