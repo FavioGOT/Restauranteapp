@@ -44,6 +44,25 @@
         ]
       },
       {
+        "category": "MAKI",
+        "items": [
+          {
+            "name": "AVOCADO MAKI",
+            "description": "CUCUMBER, AVOCADO, BALSMIC PEARL, CREAM CHEESE",
+            "variations": [],
+            "allergies": ["V", "VG", "GF"],
+            "price": 85
+          },
+          {
+            "name": "CALIFORNIA",
+            "description": "KING CRAB, CUCUMBER, AVOCADO, MAYONNAISE",
+            "variations": [],
+            "allergies": ["SH", "GF"],
+            "price": 120
+          }
+        ]
+      },
+      {
         "category": "SALADS",
         "items": [
           {
@@ -136,6 +155,25 @@
             "variations": [],
             "allergies": ["SH"],
             "price": 65
+          }
+        ]
+      },
+      {
+        "category": "MAKI",
+        "items": [
+          {
+            "name": "MAKI DE AGUACATE",
+            "description": "PEPINO, AGUACATE, PERLAS DE VINAGRE BALSAMICO, QUESO CREMA",
+            "variations": [],
+            "allergies": ["V", "VG", "GF"],
+            "price": 85
+          },
+          {
+            "name": "CALIFORNIA",
+            "description": "KING CANGREJO, PEPINO, AGUACATE, MAYONESA",
+            "variations": [],
+            "allergies": ["SH", "GF"],
+            "price": 120
           }
         ]
       },
