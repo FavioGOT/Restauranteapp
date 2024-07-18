@@ -1,98 +1,98 @@
-[
-  {
-    "EN": "Category",
-    "": "Name",
-    "__1": "Varation",
-    "__2": "Description",
-    "__3": "Allergias",
-    "__4": "Price"
-  },
-  {
-    "EN": "SNACK",
-    "": "EDAMAME",
-    "__1": "SALT",
-    "__2": "",
-    "__3": "VG - V",
-    "__4": 45
-  },
-  {
-    "EN": "SNACK",
-    "": "EDAMAME",
-    "__1": "CHILI",
-    "__2": "",
-    "__3": "VG - V",
-    "__4": 45
-  },
-  {
-    "EN": "SNACK",
-    "": "VIETNAMESE SPRING ROLLS",
-    "__1": "",
-    "__2": "Sweet chili",
-    "__3": "VG - V - GF",
-    "__4": 50
-  },
-  {
-    "EN": "SNACK",
-    "": "KOREAN FRIED CHICKEN",
-    "__1": "",
-    "__2": "PICKLED MOOLI",
-    "__3": "S",
-    "__4": 80
-  },
-  {
-    "EN": "SNACK",
-    "": "PRAWN TOAST",
-    "__1": "",
-    "__2": "SESAME, SWEET CHILI DIP",
-    "__3": "SH",
-    "__4": 65
-  },
-  {
-    "EN": "SALADS",
-    "": "ASIAN CORN SALAD",
-    "__1": "",
-    "__2": "MIZUNA LEAVES, GRILLED CORN, MISO DRESSING",
-    "__3": "V - N",
-    "__4": 75
-  },
-  {
-    "EN": "SALADS",
-    "": "KING CRAB SALAD",
-    "__1": "",
-    "__2": "KUMQUAT, FENNEL, ENDIVE, BROWN CRAB MAYO",
-    "__3": "SH",
-    "__4": 115
-  },
-  {
-    "EN": "SALADS",
-    "": "DASHI MARINATED TOMATO",
-    "__1": "",
-    "__2": "BURRATA, PESTO, BALSAMIC, PEARLS",
-    "__3": "GF - VG - D",
-    "__4": 85
-  },
-  {
-    "EN": "FLATBREADS",
-    "": "MARGARTIA Y BURRATA",
-    "__1": "",
-    "__2": "TANGY TOMATO SAUCE, MOZZARELLA",
-    "__3": "VG - D",
-    "__4": 90
-  },
-  {
-    "EN": "FLATBREADS",
-    "": "PEPPERONI",
-    "__1": "",
-    "__2": "PEPPERONI, TANGY TOMATO, MOZZARELLA, CHILI OIL",
-    "__3": "D",
-    "__4": 95
-  },
-  {
-    "EN": "FLATBREADS",
-    "": "THAI CHILI CHICKEN",
-    "__1": "",
-    "__2": "TOASTED COCONUT, PEANUT, PAPAYA",
-    "__3": "D - N - S - SH",
-    "__4": 95
-  }
-]
+{
+  "categories": [
+    {
+      "name": "SNACK",
+      "items": [
+        {
+          "name": "EDAMAME",
+          "description": "",
+          "variations": [
+            {
+              "name": "SAL",
+              "allergies": ["VG - V"]
+              "price": 45
+            },
+            {
+              "name": "CHILI",
+              "allergies": ["VG - V"]
+              "price": 45
+            }
+          ],
+        },
+        {
+          "name": "ROLLOS PRIMAVERA VIETNAMITAS",
+          "description": "Chili dulce",
+          "variations": [],
+          "allergies": ["VG - V - GF"],
+          "price": 50
+        },
+        {
+          "name": "POLLO FRITO COREANO",
+          "description": "Rábano encurtido",
+          "variations": [],
+          "allergies": ["S"],
+          "price": 80
+        },
+        {
+          "name": "TOSTADA DE LANGOSTINOS",
+          "description": "Sésamo, salsa dulce de chili",
+          "variations": [],
+          "allergies": ["SH"],
+          "price": 65
+        }
+      ]
+    },
+    {
+      "name": "ENSALADAS",
+      "items": [
+        {
+          "name": "ENSALADA DE MAÍZ ASIÁTICA",
+          "description": "Hojas de mizuna, maíz a la parrilla, aderezo de miso",
+          "variations": [],
+          "allergies": ["V - N"],
+          "price": 75
+        },
+        {
+          "name": "ENSALADA DE CANGREJO REAL",
+          "description": "Kumquat, hinojo, endibia, mayonesa de cangrejo marrón",
+          "variations": [],
+          "allergies": ["SH"],
+          "price": 115
+        },
+        {
+          "name": "TOMATE MARINADO EN DASHI",
+          "description": "Burrata, pesto, balsámico, perlas",
+          "variations": [],
+          "allergies": ["GF - VG - D"],
+          "price": 85
+        }
+      ]
+    },
+    {
+      "name": "PIZZA",
+      "items": [
+        {
+          "name": "MARGHERITA Y BURRATA",
+          "description": "Salsa de tomate tangy, mozzarella",
+          "variations": [],
+          "allergies": ["VG - D"],
+          "price": 90
+        },
+        {
+          "name": "PEPPERONI",
+          "description": "Pepperoni, salsa de tomate tangy, mozzarella, aceite de chili",
+          "variations": [],
+          "allergies": ["D"],
+          "price": 95
+        },
+        {
+          "name": "POLLO AL CHILI TAILANDÉS",
+          "description": "Coco tostado, cacahuate, papaya",
+          "variations": [],
+          "allergies": ["D - N - S - SH"],
+          "price": 95
+        }
+      ]
+    }
+  ]
+}
