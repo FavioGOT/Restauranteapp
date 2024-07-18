@@ -1,0 +1,97 @@
+{
+  "food menu": [
+    {
+      "category": "SNACK",
+      "items": [
+        {
+          "name": "EDAMAME",
+          "description": "",
+          "variations": [
+            {
+              "name": "SALT",
+              "price": 45
+            },
+            {
+              "name": "CHILI",
+              "price": 45
+            }
+          ],
+          "allergies": ["VG - V"]
+        },
+        {
+          "name": "VIETNAMESE SPRING ROLLS",
+          "description": "Sweet chili",
+          "variations": [],
+          "allergies": ["VG - V - GF"],
+          "price": 50
+        },
+        {
+          "name": "KOREAN FRIED CHICKEN",
+          "description": "PICKLED MOOLI",
+          "variations": [],
+          "allergies": ["S"],
+          "price": 80
+        },
+        {
+          "name": "PRAWN TOAST",
+          "description": "SESAME, SWEET CHILI DIP",
+          "variations": [],
+          "allergies": ["SH"],
+          "price": 65
+        }
+      ]
+    },
+    {
+      "category": "SALADS",
+      "items": [
+        {
+          "name": "ASIAN CORN SALAD",
+          "description": "MIZUNA LEAVES, GRILLED CORN, MISO DRESSING",
+          "variations": [],
+          "allergies": ["V - N"],
+          "price": 75
+        },
+        {
+          "name": "KING CRAB SALAD",
+          "description": "KUMQUAT, FENNEL, ENDIVE, BROWN CRAB MAYO",
+          "variations": [],
+          "allergies": ["SH"],
+          "price": 115
+        },
+        {
+          "name": "DASHI MARINATED TOMATO",
+          "description": "BURRATA, PESTO, BALSAMIC, PEARLS",
+          "variations": [],
+          "allergies": ["GF - VG - D"],
+          "price": 85
+        }
+      ]
+    },
+    {
+      "category": "FLATBREADS",
+      "items": [
+        {
+          "name": "MARGARITA Y BURRATA",
+          "description": "TANGY TOMATO SAUCE, MOZZARELLA",
+          "variations": [],
+          "allergies": ["VG - D"],
+          "price": 90
+        },
+        {
+          "name": "PEPPERONI",
+          "description": "PEPPERONI, TANGY TOMATO, MOZZARELLA, CHILI OIL",
+          "variations": [],
+          "allergies": ["D"],
+          "price": 95
+        },
+        {
+          "name": "THAI CHILI CHICKEN",
+          "description": "TOASTED COCONUT, PEANUT, PAPAYA",
+          "variations": [],
+          "allergies": ["D - N - S - SH"],
+          "price": 95
+        }
+      ]
+    }
+  ]
+}
