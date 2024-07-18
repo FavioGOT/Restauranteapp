@@ -1,6 +1,6 @@
 {
-  "es": {
-    "food menu": [
+  "food menu": {
+    "en": [
       {
         "category": "SNACK",
         "items": [
@@ -10,110 +10,12 @@
             "variations": [
               {
                 "name": "SALT",
-                "allergies": ["VG - V"],
+                "allergies": ["VG", "V"],
                 "price": 45
               },
               {
                 "name": "CHILI",
-                "allergies": ["VG - V"],
-                "price": 45
-              }
-            ]
-          },
-          {
-            "name": "ROLLITOS PRIMAVERA VIETNAMITAS",
-            "description": "Chili dulce",
-            "variations": [],
-            "allergies": ["VG - V - GF"],
-            "price": 50
-          },
-          {
-            "name": "POLLO FRITO COREANO",
-            "description": "PICKLED MOOLI",
-            "variations": [],
-            "allergies": ["S"],
-            "price": 80
-          },
-          {
-            "name": "TOSTADA DE GAMBAS",
-            "description": "SESAME, SWEET CHILI DIP",
-            "variations": [],
-            "allergies": ["SH"],
-            "price": 65
-          }
-        ]
-      },
-      {
-        "category": "ENSALADAS",
-        "items": [
-          {
-            "name": "ENSALADA ASIÁTICA DE MAÍZ",
-            "description": "MIZUNA LEAVES, GRILLED CORN, MISO DRESSING",
-            "variations": [],
-            "allergies": ["V - N"],
-            "price": 75
-          },
-          {
-            "name": "ENSALADA DE CANGREJO REY",
-            "description": "KUMQUAT, FENNEL, ENDIVE, BROWN CRAB MAYO",
-            "variations": [],
-            "allergies": ["SH"],
-            "price": 115
-          },
-          {
-            "name": "TOMATE MARINADO CON DASHI",
-            "description": "BURRATA, PESTO, BALSAMIC, PEARLS",
-            "variations": [],
-            "allergies": ["GF - VG - D"],
-            "price": 85
-          }
-        ]
-      },
-      {
-        "category": "PIZZAS",
-        "items": [
-          {
-            "name": "MARGARITA Y BURRATA",
-            "description": "TANGY TOMATO SAUCE, MOZZARELLA",
-            "variations": [],
-            "allergies": ["VG - D"],
-            "price": 90
-          },
-          {
-            "name": "PEPPERONI",
-            "description": "PEPPERONI, TANGY TOMATO, MOZZARELLA, CHILI OIL",
-            "variations": [],
-            "allergies": ["D"],
-            "price": 95
-          },
-          {
-            "name": "POLLO AL CHILI TAILANDÉS",
-            "description": "TOASTED COCONUT, PEANUT, PAPAYA",
-            "variations": [],
-            "allergies": ["D - N - S - SH"],
-            "price": 95
-          }
-        ]
-      }
-    ]
-  },
-  "en": {
-    "food menu": [
-      {
-        "category": "SNACK",
-        "items": [
-          {
-            "name": "EDAMAME",
-            "description": "",
-            "variations": [
-              {
-                "name": "SALT",
-                "allergies": ["VG - V"],
-                "price": 45
-              },
-              {
-                "name": "CHILI",
-                "allergies": ["VG - V"],
+                "allergies": ["VG", "V"],
                 "price": 45
               }
             ]
@@ -122,7 +24,7 @@
             "name": "VIETNAMESE SPRING ROLLS",
             "description": "Sweet chili",
             "variations": [],
-            "allergies": ["VG - V - GF"],
+            "allergies": ["VG", "V", "GF"],
             "price": 50
           },
           {
@@ -148,7 +50,7 @@
             "name": "ASIAN CORN SALAD",
             "description": "MIZUNA LEAVES, GRILLED CORN, MISO DRESSING",
             "variations": [],
-            "allergies": ["V - N"],
+            "allergies": ["V", "N"],
             "price": 75
           },
           {
@@ -162,7 +64,7 @@
             "name": "DASHI MARINATED TOMATO",
             "description": "BURRATA, PESTO, BALSAMIC, PEARLS",
             "variations": [],
-            "allergies": ["GF - VG - D"],
+            "allergies": ["GF", "VG", "D"],
             "price": 85
           }
         ]
@@ -174,7 +76,7 @@
             "name": "MARGARITA Y BURRATA",
             "description": "TANGY TOMATO SAUCE, MOZZARELLA",
             "variations": [],
-            "allergies": ["VG - D"],
+            "allergies": ["VG", "D"],
             "price": 90
           },
           {
@@ -188,7 +90,103 @@
             "name": "THAI CHILI CHICKEN",
             "description": "TOASTED COCONUT, PEANUT, PAPAYA",
             "variations": [],
-            "allergies": ["D - N - S - SH"],
+            "allergies": ["D", "N", "S", "SH"],
+            "price": 95
+          }
+        ]
+      }
+    ],
+    "es": [
+      {
+        "category": "APERITIVOS",
+        "items": [
+          {
+            "name": "EDAMAME",
+            "description": "",
+            "variations": [
+              {
+                "name": "SAL",
+                "allergies": ["VG", "V"],
+                "price": 45
+              },
+              {
+                "name": "CHILE",
+                "allergies": ["VG", "V"],
+                "price": 45
+              }
+            ]
+          },
+          {
+            "name": "ROLLITOS PRIMAVERA VIETNAMITAS",
+            "description": "Chile dulce",
+            "variations": [],
+            "allergies": ["VG", "V", "GF"],
+            "price": 50
+          },
+          {
+            "name": "POLLO FRITO COREANO",
+            "description": "MOOLI ENCURTIDO",
+            "variations": [],
+            "allergies": ["S"],
+            "price": 80
+          },
+          {
+            "name": "TOSTADA DE LANGOSTINOS",
+            "description": "SÉSAMO, DIP DE CHILE DULCE",
+            "variations": [],
+            "allergies": ["SH"],
+            "price": 65
+          }
+        ]
+      },
+      {
+        "category": "ENSALADAS",
+        "items": [
+          {
+            "name": "ENSALADA DE MAÍZ ASIÁTICA",
+            "description": "HOJAS DE MIZUNA, MAÍZ A LA PARRILLA, ADEREZO DE MISO",
+            "variations": [],
+            "allergies": ["V", "N"],
+            "price": 75
+          },
+          {
+            "name": "ENSALADA DE CANGREJO REAL",
+            "description": "KUMQUAT, HINOJO, ENDIVIA, MAYONESA DE CANGREJO MARRÓN",
+            "variations": [],
+            "allergies": ["SH"],
+            "price": 115
+          },
+          {
+            "name": "TOMATE MARINADO EN DASHI",
+            "description": "BURRATA, PESTO, BALSÁMICO, PERLAS",
+            "variations": [],
+            "allergies": ["GF", "VG", "D"],
+            "price": 85
+          }
+        ]
+      },
+      {
+        "category": "PAN PLANO",
+        "items": [
+          {
+            "name": "MARGARITA Y BURRATA",
+            "description": "SALSA DE TOMATE TANGY, MOZZARELLA",
+            "variations": [],
+            "allergies": ["VG", "D"],
+            "price": 90
+          },
+          {
+            "name": "PEPPERONI",
+            "description": "PEPPERONI, TOMATE TANGY, MOZZARELLA, ACEITE DE CHILE",
+            "variations": [],
+            "allergies": ["D"],
+            "price": 95
+          },
+          {
+            "name": "POLLO AL CHILE TAILANDÉS",
+            "description": "COCO TOSTADO, CACAHUATE, PAPAYA",
+            "variations": [],
+            "allergies": ["D", "N", "S", "SH"],
             "price": 95
           }
         ]
