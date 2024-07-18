@@ -27,6 +27,7 @@
             "variations": [],
             "allergies": ["VG", "V", "GF"],
             "price": 50
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
           },
           {
             "name": "KOREAN FRIED CHICKEN",
@@ -143,6 +144,7 @@
             "variations": [],
             "allergies": ["VG", "V", "GF"],
             "price": 50
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
           },
           {
             "name": "POLLO FRITO COREANO",
@@ -259,6 +261,7 @@
             "variations": [],
             "allergies": ["VG", "V", "GF"],
             "price": 50
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
           },
           {
             "name": "POLLO FRITTO COREANO",
