@@ -9,14 +9,15 @@
           "variations": [
             {
               "name": "SALT",
+              "allergies": ["VG - V"]
               "price": 45
             },
             {
               "name": "CHILI",
+              "allergies": ["VG - V"]
               "price": 45
             }
-          ],
-          "allergies": ["VG - V"]
+          ],  
         },
         {
           "name": "VIETNAMESE SPRING ROLLS",
