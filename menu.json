@@ -134,7 +134,8 @@
                 "allergies": ["VG", "V"],
                 "price": 45
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "ROLLITOS PRIMAVERA VIETNAMITAS",
@@ -249,7 +250,8 @@
                 "allergies": ["VG", "V"],
                 "price": 45
               }
-            ]
+            ],
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "INROLLI VIETNAMITI",
