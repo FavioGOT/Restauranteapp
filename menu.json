@@ -26,7 +26,7 @@
             "description": "Sweet chili",
             "variations": [],
             "allergies": ["VG", "V", "GF"],
-            "price": 50
+            "price": 50,
             "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
           },
           {
@@ -143,7 +143,7 @@
             "description": "Chile dulce",
             "variations": [],
             "allergies": ["VG", "V", "GF"],
-            "price": 50
+            "price": 50,
             "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
           },
           {
@@ -260,7 +260,7 @@
             "description": "Peperoncino dolce",
             "variations": [],
             "allergies": ["VG", "V", "GF"],
-            "price": 50
+            "price": 50,
             "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
           },
           {
