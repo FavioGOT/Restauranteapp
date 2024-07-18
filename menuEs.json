@@ -1,7 +1,7 @@
 {
-  "categories": [
+  "Menu de comida": [
     {
-      "name": "SNACK",
+      "category": "SNACK",
       "items": [
         {
           "name": "EDAMAME",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "ENSALADAS",
+      "category": "ENSALADAS",
       "items": [
         {
           "name": "ENSALADA DE MAÍZ ASIÁTICA",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "PIZZA",
+      "category": "PIZZA",
       "items": [
         {
           "name": "MARGHERITA Y BURRATA",
