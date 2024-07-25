@@ -11,13 +11,14 @@
               {
                 "name": "SALT",
                 "allergies": ["VG", "V"],
-                "price": 45, 
+                "price": 45,
                 "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               },
               {
                 "name": "CHILI",
                 "allergies": ["VG", "V"],
-                "price": 45
+                "price": 45,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               }
             ]
           },
@@ -27,21 +28,23 @@
             "variations": [],
             "allergies": ["VG", "V", "GF"],
             "price": 50,
-            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "KOREAN FRIED CHICKEN",
             "description": "PICKLED MOOLI",
             "variations": [],
             "allergies": ["S"],
-            "price": 80
+            "price": 80,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "PRAWN TOAST",
             "description": "SESAME, SWEET CHILI DIP",
             "variations": [],
             "allergies": ["SH"],
-            "price": 65
+            "price": 65,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -53,14 +56,16 @@
             "description": "CUCUMBER, AVOCADO, BALSMIC PEARL, CREAM CHEESE",
             "variations": [],
             "allergies": ["V", "VG", "GF"],
-            "price": 85
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "CALIFORNIA",
             "description": "KING CRAB, CUCUMBER, AVOCADO, MAYONNAISE",
             "variations": [],
             "allergies": ["SH", "GF"],
-            "price": 120
+            "price": 120,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -72,21 +77,24 @@
             "description": "MIZUNA LEAVES, GRILLED CORN, MISO DRESSING",
             "variations": [],
             "allergies": ["V", "N"],
-            "price": 75
+            "price": 75,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "KING CRAB SALAD",
             "description": "KUMQUAT, FENNEL, ENDIVE, BROWN CRAB MAYO",
             "variations": [],
             "allergies": ["SH"],
-            "price": 115
+            "price": 115,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "DASHI MARINATED TOMATO",
             "description": "BURRATA, PESTO, BALSAMIC, PEARLS",
             "variations": [],
             "allergies": ["GF", "VG", "D"],
-            "price": 85
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -98,21 +106,24 @@
             "description": "TANGY TOMATO SAUCE, MOZZARELLA",
             "variations": [],
             "allergies": ["VG", "D"],
-            "price": 90
+            "price": 90,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "PEPPERONI",
             "description": "PEPPERONI, TANGY TOMATO, MOZZARELLA, CHILI OIL",
             "variations": [],
             "allergies": ["D"],
-            "price": 95
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "THAI CHILI CHICKEN",
             "description": "TOASTED COCONUT, PEANUT, PAPAYA",
             "variations": [],
             "allergies": ["D", "N", "S", "SH"],
-            "price": 95
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       }
@@ -134,7 +145,8 @@
               {
                 "name": "CHILE",
                 "allergies": ["VG", "V"],
-                "price": 45
+                "price": 45,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               }
             ]
           },
@@ -144,21 +156,23 @@
             "variations": [],
             "allergies": ["VG", "V", "GF"],
             "price": 50,
-            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "POLLO FRITO COREANO",
             "description": "MOOLI ENCURTIDO",
             "variations": [],
             "allergies": ["S"],
-            "price": 80
+            "price": 80,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "TOSTADA DE LANGOSTINOS",
             "description": "SÉSAMO, DIP DE CHILE DULCE",
             "variations": [],
             "allergies": ["SH"],
-            "price": 65
+            "price": 65,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -170,14 +184,16 @@
             "description": "PEPINO, AGUACATE, PERLAS DE VINAGRE BALSAMICO, QUESO CREMA",
             "variations": [],
             "allergies": ["V", "VG", "GF"],
-            "price": 85
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "CALIFORNIA",
             "description": "KING CANGREJO, PEPINO, AGUACATE, MAYONESA",
             "variations": [],
             "allergies": ["SH", "GF"],
-            "price": 120
+            "price": 120,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -189,21 +205,24 @@
             "description": "HOJAS DE MIZUNA, MAÍZ A LA PARRILLA, ADEREZO DE MISO",
             "variations": [],
             "allergies": ["V", "N"],
-            "price": 75
+            "price": 75,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "ENSALADA DE CANGREJO REAL",
             "description": "KUMQUAT, HINOJO, ENDIVIA, MAYONESA DE CANGREJO MARRÓN",
             "variations": [],
             "allergies": ["SH"],
-            "price": 115
+            "price": 115,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "TOMATE MARINADO EN DASHI",
-            "description": "BURRATA, PESTO, BALSÁMICO, PERLAS",
+            "description": "BURRATA, PESTO, PERLAS DE BALSÁMICO",
             "variations": [],
             "allergies": ["GF", "VG", "D"],
-            "price": 85
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -212,24 +231,27 @@
         "items": [
           {
             "name": "MARGARITA Y BURRATA",
-            "description": "SALSA DE TOMATE TANGY, MOZZARELLA",
+            "description": "SALSA DE TOMATE ÁCIDA, MOZZARELLA",
             "variations": [],
             "allergies": ["VG", "D"],
-            "price": 90
+            "price": 90,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "PEPPERONI",
-            "description": "PEPPERONI, TOMATE TANGY, MOZZARELLA, ACEITE DE CHILE",
+            "description": "PEPPERONI, SALSA DE TOMATE ÁCIDA, MOZZARELLA, ACEITE DE CHILE",
             "variations": [],
             "allergies": ["D"],
-            "price": 95
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
-            "name": "POLLO AL CHILE TAILANDÉS",
-            "description": "COCO TOSTADO, CACAHUATE, PAPAYA",
+            "name": "POLLO CON CHILE TAILANDÉS",
+            "description": "COCO TOSTADO, MANÍ, PAPAYA",
             "variations": [],
             "allergies": ["D", "N", "S", "SH"],
-            "price": 95
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       }
@@ -251,31 +273,34 @@
               {
                 "name": "PEPERONCINO",
                 "allergies": ["VG", "V"],
-                "price": 45
+                "price": 45,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               }
             ]
           },
           {
-            "name": "INROLLI VIETNAMITI",
-            "description": "Peperoncino dolce",
+            "name": "ROLL DI PRIMAVERA VIETNAMITI",
+            "description": "Salsa dolce al peperoncino",
             "variations": [],
             "allergies": ["VG", "V", "GF"],
             "price": 50,
-            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/spring.jpg"
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "POLLO FRITTO COREANO",
-            "description": "MOOLI SOTTACETO",
+            "description": "MOOLI SOTT'ACETO",
             "variations": [],
             "allergies": ["S"],
-            "price": 80
+            "price": 80,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "TOAST DI GAMBERI",
-            "description": "SESAMO, SUGO AL PEPPERONCINO DOLCE",
+            "description": "SEMI DI SESAMO, SALSA DOLCE AL PEPE",
             "variations": [],
             "allergies": ["SH"],
-            "price": 65
+            "price": 65,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -284,17 +309,19 @@
         "items": [
           {
             "name": "MAKI ALL'AVOCADO",
-            "description": "CUCUMBER, AVOCADO, PERLE DI BALSAMICO, FORMAGGIO CREMOSO",
+            "description": "PEPERONE, AVOCADO, PERLE DI ACETO BALSAMICO, FORMAGGIO CREMOSO",
             "variations": [],
             "allergies": ["V", "VG", "GF"],
-            "price": 85
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "CALIFORNIA",
-            "description": "GRANCHIO RE, CUCUMBER, AVOCADO, MAIONESE",
+            "description": "GRANCHIO REALE, PEPERONE, AVOCADO, MAYO",
             "variations": [],
             "allergies": ["SH", "GF"],
-            "price": 120
+            "price": 120,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -302,25 +329,28 @@
         "category": "SALADS",
         "items": [
           {
-            "name": "INSALATA DI MAIS ASIATICA",
-            "description": "FOGLIE DI MIZUNA, MAIS GRIGLIATO, CONDIMENTO AL MISO",
+            "name": "INSALATA DI MAIS ASIATICO",
+            "description": "FOLLE DI MIZUNA, MAIS GRIGLIATO, CONDIMENTO AL MISO",
             "variations": [],
             "allergies": ["V", "N"],
-            "price": 75
+            "price": 75,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
-            "name": "INSALATA DI GRANCHIO RE",
-            "description": "KUMQUAT, FINOCCHIO, INDIVIA, MAIONESE DI GRANCHIO BRUNO",
+            "name": "INSALATA DI GRANCHIO REALE",
+            "description": "KUMQUAT, FINOCCHIO, INDIVIA, MAYO DI GRANCHIO MARRONE",
             "variations": [],
             "allergies": ["SH"],
-            "price": 115
+            "price": 115,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
-            "name": "TOMATE MARINATO IN DASHI",
-            "description": "BURRATA, PESTO, BALSAMICO, PERLE",
+            "name": "TOMATE MARINATO NEL DASHI",
+            "description": "BURRATA, PESTO, PERLE DI ACETO BALSAMICO",
             "variations": [],
             "allergies": ["GF", "VG", "D"],
-            "price": 85
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       },
@@ -329,24 +359,27 @@
         "items": [
           {
             "name": "MARGHERITA E BURRATA",
-            "description": "SUGO DI POMODORO TANGY, MOZZARELLA",
+            "description": "SALSA DI POMODORO ACIDA, MOZZARELLA",
             "variations": [],
             "allergies": ["VG", "D"],
-            "price": 90
+            "price": 90,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
             "name": "PEPPERONI",
-            "description": "PEPPERONI, POMODORO TANGY, MOZZARELLA, OLIO AL PEPPERONCINO",
+            "description": "PEPPERONI, SALSA DI POMODORO ACIDA, MOZZARELLA, OLIO AL PEPE",
             "variations": [],
             "allergies": ["D"],
-            "price": 95
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           },
           {
-            "name": "POLLO AL PEPPERONCINO TAILANDESE",
-            "description": "COCO TOSTATO, ARACHIDI, PAPAYA",
+            "name": "POLLO AL PEPE TAILANDESE",
+            "description": "COCO TOSTATO, NOCE, PAPAYA",
             "variations": [],
             "allergies": ["D", "N", "S", "SH"],
-            "price": 95
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
           }
         ]
       }
