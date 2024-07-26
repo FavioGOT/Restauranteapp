@@ -114,19 +114,17 @@
           }
         ]
       }
-    ]
-  },
-   {
+    ],
     "es": [
       {
-        "category": "WINES BY GLASS",
+        "category": "COPAS DE VINO",
         "items": [
           {
-            "name": "WHITE",
+            "name": "BLANCO",
             "variations": [
               {
                 "name": "CHARDONNAY",
-                "description": "Vino de Le Vin 'Avoir La Péche', Languedoc, Francia",
+                "description": "Pour Le Vin 'Avoir La Péche', Languedoc, Francia",
                 "price": 80,
                 "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
               },
@@ -158,7 +156,7 @@
         ]
       },
       {
-        "category": "SPIRITS",
+        "category": "LICORES",
         "items": [
           {
             "name": "VODKA",
@@ -180,7 +178,7 @@
         ]
       },
       {
-        "category": "BEERS & CIDERS",
+        "category": "CERVEZAS & CIDRAS",
         "items": [
           {
             "name": "STELLA ARTOIS",
@@ -206,7 +204,7 @@
         ]
       },
       {
-        "category": "SIGNATURE COCKTAILS",
+        "category": "COCKTELES DE LA CASA",
         "items": [
           {
             "name": "Markisa Spritz",
@@ -224,7 +222,7 @@
           },
           {
             "name": "LÓNG SOUL",
-            "description": "Ginebra, Fruta de dragón roja, Limón, Tónica de ruibarbo y hibisco",
+            "description": "Ginebra, Fruta de dragón roja, Limón, Tónica de ruibarbo e hibisco",
             "variations": [],
             "price": 80,
             "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
