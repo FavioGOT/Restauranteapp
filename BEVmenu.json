@@ -1,0 +1,119 @@
+{
+  "bev menu": {
+    "en": [
+      {
+        "category": "WINES BY GLASS",
+        "items": [
+          {
+            "name": "WHITE",
+            "variations": [
+              {
+                "name": "CHARDONNAY",
+                "description": "Pour Le Vin ´Avoir La Péche´, Languedoc, France", 
+                "price": 80,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+              },
+              {
+                "name": "VERMENTINO",
+                "description": "´Calasole´, Rocca Di Montemassi , Tuscany, Italy",
+                "price": 85,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+              }
+            ]
+          },
+           {
+            "name": "ROSÉ",
+            "variations": [
+              {
+                "name": "CHÁTEAU DE MINUTY ´M´",
+                "description": "Cótes de Provence, France", 
+                "price": 85,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+              },
+              {
+                "name": "AIX",
+                "description": "Cótes de Provence, France",
+                "price": 95,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+              }
+            ]
+          }
+      },
+       {
+        "category": "SPIRITS",
+        "items": [
+          {
+            "name": "VODKA",
+            "variations": [
+              {
+                "name": "ABSOLUT ELYX",
+                "description": "", 
+                "price": 65,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+              },
+              {
+                "name": "BELVEDERE",
+                "description": "",
+                "price": 70,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+              }
+            ]
+          }
+        ]
+       },
+      {
+        "category": "BEERS & CIDERS",
+        "items": [
+          {
+            "name": "STELLA ARTOIS",
+            "description": "",
+            "variations": [],
+            "price": 55,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+          },
+          {
+            "name": "ASAHI SUPER DRY",
+            "description": "",
+            "variations": [],
+            "price": 55,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+          },
+           {
+            "name": "TIGER",
+            "description": "",
+            "variations": [],
+            "price": 60,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+          }
+        ]
+      },
+         {
+        "category": "SIGNATURE COCKTAILS",
+        "items": [
+          {
+            "name": "Markisa Spritz",
+            "description": "Sparkling Wine, Martini Fiero, Passionfruit, Soda",
+            "variations": [],
+            "price": 75,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+          },
+          {
+            "name": "PAW PAW",
+            "description": "Vodka, Aperol, Papaya Syrup, Lemon, Orange",
+            "variations": [],
+            "price": 80,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+          },
+           {
+            "name": "LÓNG SOUL",
+            "description": "Gin, Red Dragonfruit, Lemon, Rhubarb & Hibiscus Tonic",
+            "variations": [],
+            "price": 80,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg"
+          }
+        ]
+      }
+    ]
+  } 
+}
+ 
