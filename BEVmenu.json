@@ -117,7 +117,7 @@
     ],
     "es": [
       {
-        "category": "COPAS DE VINO",
+        "category": "WINES BY GLASS",
         "items": [
           {
             "name": "BLANCO",
@@ -156,7 +156,7 @@
         ]
       },
       {
-        "category": "LICORES",
+        "category": "SPIRITS",
         "items": [
           {
             "name": "VODKA",
@@ -178,7 +178,7 @@
         ]
       },
       {
-        "category": "CERVEZAS & CIDRAS",
+        "category": "BEERS & CIDERS",
         "items": [
           {
             "name": "STELLA ARTOIS",
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "category": "COCKTELES DE LA CASA",
+        "category": "SIGNATURE COCKTAILS",
         "items": [
           {
             "name": "Markisa Spritz",
@@ -232,7 +232,7 @@
     ],
     "it": [
       {
-        "category": "VINI AL BICCHIERE",
+        "category": "WINES BY GLASS",
         "items": [
           {
             "name": "BIANCO",
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "category": "LIQUORI",
+        "category": "SPIRITS",
         "items": [
           {
             "name": "VODKA",
@@ -293,7 +293,7 @@
         ]
       },
       {
-        "category": "BIRRE & SIDRI",
+        "category": "BEERS & CIDERS",
         "items": [
           {
             "name": "STELLA ARTOIS",
@@ -319,7 +319,7 @@
         ]
       },
       {
-        "category": "COCKTAILS DELLA CASA",
+        "category": "SIGNATURE COCKTAILS",
         "items": [
           {
             "name": "Markisa Spritz",
