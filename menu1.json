@@ -1,0 +1,134 @@
+{
+  "food menu": {
+    "en": [
+      {
+        "category": "SNACK",
+        "items": [
+          {
+            "name": "EDAMAME",
+            "description": "",
+            "variations": [
+              {
+                "name": "SALT",
+                "allergies": ["VG", "V"],
+                "price": 45,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+                "detail": "Light and healthy, perfect for when you're looking for something simple to nibble on. The slight saltiness adds a savory touch."
+              },
+              {
+                "name": "CHILI",
+                "allergies": ["VG", "V"],
+                "price": 45,
+                "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+                "detail": "Spicy and satisfying, great for when you're craving a bit of heat but want to keep it light. Ideal for sharing."
+              }
+            ]
+          },
+          {
+            "name": "VIETNAMESE SPRING ROLLS",
+            "description": "Sweet chili",
+            "allergies": ["VG", "V", "GF"],
+            "price": 50,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "Crispy on the outside with a fresh, light filling. Great as a starter or snack, with a sweet and tangy chili dip that enhances the flavor."
+          },
+          {
+            "name": "KOREAN FRIED CHICKEN",
+            "description": "PICKLED MOOLI",
+            "allergies": ["S"],
+            "price": 80,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "Crispy, savory, and with a satisfying crunch. The pickled mooli adds a refreshing balance to the richness of the chicken. Ideal for those with a hearty appetite."
+          },
+          {
+            "name": "PRAWN TOAST",
+            "description": "SESAME, SWEET CHILI DIP",
+            "allergies": ["SH"],
+            "price": 65,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "Crunchy and packed with flavor. The sweet chili dip adds a kick that pairs perfectly with the sesame-coated prawn toast. Great for sharing or as a treat for yourself."
+          }
+        ]
+      },
+      {
+        "category": "MAKI",
+        "items": [
+          {
+            "name": "AVOCADO MAKI",
+            "description": "CUCUMBER, AVOCADO, BALSMIC PEARL, CREAM CHEESE",
+            "allergies": ["V", "VG", "GF"],
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "Creamy avocado with the crunch of cucumber. Perfect for a light, refreshing bite, with a hint of richness from the cream cheese."
+          },
+          {
+            "name": "CALIFORNIA",
+            "description": "KING CRAB, CUCUMBER, AVOCADO, MAYONNAISE",
+            "allergies": ["SH", "GF"],
+            "price": 120,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "A classic sushi roll with delicate king crab and creamy avocado. The light touch of mayonnaise adds a richness, making it ideal for when you want something indulgent yet refreshing."
+          }
+        ]
+      },
+      {
+        "category": "SALADS",
+        "items": [
+          {
+            "name": "ASIAN CORN SALAD",
+            "description": "MIZUNA LEAVES, GRILLED CORN, MISO DRESSING",
+            "allergies": ["V", "N"],
+            "price": 75,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "A mix of smoky grilled corn and tangy miso dressing. Light but flavorful, perfect for a refreshing side dish or a light meal."
+          },
+          {
+            "name": "KING CRAB SALAD",
+            "description": "KUMQUAT, FENNEL, ENDIVE, BROWN CRAB MAYO",
+            "allergies": ["SH"],
+            "price": 115,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "The sweet, citrusy kumquat pairs perfectly with the rich, delicate king crab. This salad is light yet indulgent, making it a great option for a special treat."
+          },
+          {
+            "name": "DASHI MARINATED TOMATO",
+            "description": "BURRATA, PESTO, BALSAMIC, PEARLS",
+            "allergies": ["GF", "VG", "D"],
+            "price": 85,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "The tangy tomatoes and creamy burrata create a delightful balance of flavors. Perfect for a refreshing and flavorful light meal or as an appetizer."
+          }
+        ]
+      },
+      {
+        "category": "FLATBREADS",
+        "items": [
+          {
+            "name": "MARGARITA Y BURRATA",
+            "description": "TANGY TOMATO SAUCE, MOZZARELLA",
+            "allergies": ["VG", "D"],
+            "price": 90,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "A classic flatbread with a rich tomato base and creamy burrata cheese. Ideal for when you're craving something simple yet delicious."
+          },
+          {
+            "name": "PEPPERONI",
+            "description": "PEPPERONI, TANGY TOMATO, MOZZARELLA, CHILI OIL",
+            "allergies": ["D"],
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "Savory pepperoni with a spicy kick from the chili oil. Perfect for when you're in the mood for something hearty and flavorful."
+          },
+          {
+            "name": "THAI CHILI CHICKEN",
+            "description": "TOASTED COCONUT, PEANUT, PAPAYA",
+            "allergies": ["D", "N", "S", "SH"],
+            "price": 95,
+            "image": "https://raw.githubusercontent.com/FavioGOT/Restauranteapp/main/edamame.jpg",
+            "detail": "A fusion of sweet, spicy, and tangy flavors with a unique texture from the toasted coconut and peanut. Great for adventurous eaters or those seeking bold flavors."
+          }
+        ]
+      }
+    ]
+  }
+}
